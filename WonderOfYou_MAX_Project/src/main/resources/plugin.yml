@@ -1,0 +1,8 @@
+
+name: WonderOfYou
+version: 1.0
+main: me.woyu.WonderOfYou
+api-version: 1.20
+commands:
+  woyu:
+    description: Wonder Of You ability
